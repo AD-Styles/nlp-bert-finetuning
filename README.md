@@ -1,4 +1,4 @@
-### 📝 nlp-bert-finetuning
+# 📝 nlp-bert-finetuning
 ### 어텐션(Attention) 메커니즘의 이해와 BERT 모델 구현
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
