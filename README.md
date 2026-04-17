@@ -16,10 +16,10 @@
 ```text
 📂 src/                                     
     └── 1_bert_finetuning_pipeline.py     # BERT 모델 정의 및 파인튜닝 파이프라인 구현
-├── .gitignore                            # 체크포인트 및 캐시 제외 설정
+├── .gitignore                            # 프로젝트 관리 제외 설정
 ├── LICENSE                               # MIT License (AD-Styles)
-├── README.md                             # 트랜스포머 및 BERT 핵심 요약서
-└── requirements.txt                      # Transformers, Torch 등 필수 라이브러리
+├── README.md                             # 프로젝트 요약 및 가이드
+└── requirements.txt                      # 필수 라이브러리 목록
 ```
 
 ---
