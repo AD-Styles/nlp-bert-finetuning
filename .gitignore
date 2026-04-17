@@ -1,22 +1,17 @@
 # Python 캐시 파일
 __pycache__/
 *.py[cod]
-*$py.class
 
 # 가상 환경
 .venv/
 venv/
 env/
 
-# PyTorch 모델 및 체크포인트 (대용량 파일)
+# PyTorch 모델 및 체크포인트 (대용량 파일 제외)
 *.pt
 *.pth
 *.bin
 checkpoint-*/
-
-# 로그 및 결과물
-runs/
-*.log
 
 # 운영체제 및 IDE 설정
 .DS_Store
