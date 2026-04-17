@@ -8,9 +8,7 @@
 ---
 
 ## 📌 프로젝트 개요 (Project Overview)
-본 프로젝트에서는 기존 RNN 계열 모델의 한계인 장기 의존성(Long-term Dependency) 문제를 해결한 어텐션 메커니즘을 심도 있게 분석하였습니다. 트랜스포머(Transformer)의 핵심인 셀프 어텐션(Self-Attention) 구조를 파악하고, 사전 학습된 BERT 모델을 특정 목적에 맞춰 조정하는 파인튜닝(Fine-tuning) 과정을 다뤘습니다. 
-
-
+본 프로젝트에서는 RNN 계열 모델의 한계인 장기 의존성(Long-term Dependency) 문제를 해결한 어텐션(Attention) 메커니즘을 심도 있게 분석하였습니다. 트랜스포머(Transformer)의 핵심인 셀프 어텐션(Self-Attention) 구조를 파악하고, 문장의 앞뒤 문맥을 동시에 파악하는 BERT의 원리를 이해하였으며 특정 태스크에 맞게 모델을 재학습시키는 파인튜닝(Fine-tuning) 과정을 다뤘습니다. 
 
 ---
 
