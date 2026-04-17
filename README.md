@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ 기술 스택 (Tech Stack)
+## 🛠️ 기술 스택 (Tech Stack)
 | 구분 | 상세 항목 |
 | :--- | :--- |
 | **Language** | Python |
@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 주요 기능 및 워크플로우 (Key Features & Workflow)
+## 🚀 주요 기능 및 워크플로우 (Key Features & Workflow)
 | 단계 | 주요 기능 (Features) | 핵심 기술 (Key Tech) |
 | :--- | :--- | :--- |
 | **1. 문맥적 임베딩** | 단어의 위치와 관계를 고려한 벡터 생성 | Self-Attention, Positional Encoding |
